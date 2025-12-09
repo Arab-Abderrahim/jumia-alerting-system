@@ -1,0 +1,334 @@
+{
+  "company": {
+    "name": "Jumia Algeria (Jumia Technologies AG)",
+    "founded": 2012,
+    "algeria_launch": 2012,
+    "hq": "Algiers, Algeria (Regional HQ: Berlin, Germany)",
+    "countries": [
+      "Algeria",
+      "Egypt",
+      "Ghana",
+      "Ivory Coast",
+      "Kenya",
+      "Morocco",
+      "Nigeria",
+      "Senegal",
+      "South Africa",
+      "Tunisia",
+      "Uganda"
+    ],
+    "revenue": 167500000,
+    "revenue_currency": "USD",
+    "gmv": 720000000,
+    "active_users": 5400000,
+    "algeria_focus": true,
+    "algeria_monthly_visitors": 9200000,
+    "algeria_market_share": "28%",
+    "funding_total": 760700000,
+    "stock_ticker": "JMIA (NYSE)",
+    "description": "Leading e-commerce platform in Algeria and across Africa",
+    "algeria_description": "JUMIA Algeria offers electronics, fashion, home & living, beauty products, and groceries",
+    "estimation_method": "Market analysis 2025",
+    "confidence": "high"
+  },
+  "competitors": {
+    "Ouedkniss": {
+      "name": "Ouedkniss",
+      "app_rating": 4.5,
+      "website": "https://www.ouedkniss.com",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 12000000,
+      "market_focus": "Algeria",
+      "market_share": "36%"
+    },
+    "Batolis": {
+      "name": "Batolis",
+      "app_rating": 3.8,
+      "website": "https://www.batolis.com",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 2500000,
+      "market_focus": "Algeria",
+      "market_share": "8%"
+    },
+    "ouedkniss": {
+      "name": "ouedkniss",
+      "app_rating": 4.2,
+      "website": "https://www.ouedkniss.com",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 3000000,
+      "market_focus": "Algeria",
+      "market_share": "10%"
+    },
+    "Soukshop": {
+      "name": "Soukshop",
+      "app_rating": 3.9,
+      "website": "https://www.soukshop.dz",
+      "region": "Algeria",
+      "estimated_monthly_visitors": 1800000,
+      "market_focus": "Algeria",
+      "market_share": "6%"
+    }
+  },
+  "trends": {
+    "timeseries": [
+      {
+        "date": "2025-12-01",
+        "Jumia Algeria": 68,
+        "Ouedkniss": 100,
+        "Batolis": 32,
+        "ouedkniss": 45,
+        "Soukshop": 28
+      },
+      {
+        "date": "2025-01-01",
+        "Jumia Algeria": 72,
+        "Ouedkniss": 98,
+        "Batolis": 34,
+        "ouedkniss": 47,
+        "Soukshop": 30
+      },
+      {
+        "date": "2025-02-01",
+        "Jumia Algeria": 75,
+        "Ouedkniss": 96,
+        "Batolis": 36,
+        "ouedkniss": 49,
+        "Soukshop": 31
+      },
+      {
+        "date": "2025-03-01",
+        "Jumia Algeria": 78,
+        "Ouedkniss": 94,
+        "Batolis": 38,
+        "ouedkniss": 51,
+        "Soukshop": 33
+      },
+      {
+        "date": "2025-04-01",
+        "Jumia Algeria": 82,
+        "Ouedkniss": 92,
+        "Batolis": 35,
+        "ouedkniss": 53,
+        "Soukshop": 32
+      },
+      {
+        "date": "2025-05-01",
+        "Jumia Algeria": 85,
+        "Ouedkniss": 90,
+        "Batolis": 40,
+        "ouedkniss": 55,
+        "Soukshop": 35
+      },
+      {
+        "date": "2025-06-01",
+        "Jumia Algeria": 88,
+        "Ouedkniss": 88,
+        "Batolis": 42,
+        "ouedkniss": 58,
+        "Soukshop": 37
+      },
+      {
+        "date": "2025-07-01",
+        "Jumia Algeria": 91,
+        "Ouedkniss": 86,
+        "Batolis": 40,
+        "ouedkniss": 60,
+        "Soukshop": 36
+      },
+      {
+        "date": "2025-08-01",
+        "Jumia Algeria": 94,
+        "Ouedkniss": 84,
+        "Batolis": 45,
+        "ouedkniss": 62,
+        "Soukshop": 39
+      },
+      {
+        "date": "2025-09-01",
+        "Jumia Algeria": 97,
+        "Ouedkniss": 82,
+        "Batolis": 47,
+        "ouedkniss": 65,
+        "Soukshop": 41
+      },
+      {
+        "date": "2025-10-01",
+        "Jumia Algeria": 100,
+        "Ouedkniss": 80,
+        "Batolis": 50,
+        "ouedkniss": 67,
+        "Soukshop": 43
+      },
+      {
+        "date": "2025-11-01",
+        "Jumia Algeria": 103,
+        "Ouedkniss": 78,
+        "Batolis": 52,
+        "ouedkniss": 70,
+        "Soukshop": 45
+      },
+      {
+        "date": "2025-12-01",
+        "Jumia Algeria": 106,
+        "Ouedkniss": 76,
+        "Batolis": 55,
+        "ouedkniss": 72,
+        "Soukshop": 47
+      }
+    ],
+    "by_region": [
+      {
+        "city": "Algiers",
+        "interest": 100
+      },
+      {
+        "city": "Oran",
+        "interest": 85
+      },
+      {
+        "city": "Constantine",
+        "interest": 72
+      },
+      {
+        "city": "Annaba",
+        "interest": 58
+      },
+      {
+        "city": "Blida",
+        "interest": 54
+      },
+      {
+        "city": "Batna",
+        "interest": 48
+      },
+      {
+        "city": "Djelfa",
+        "interest": 42
+      },
+      {
+        "city": "Sétif",
+        "interest": 40
+      },
+      {
+        "city": "Sidi Bel Abbès",
+        "interest": 38
+      },
+      {
+        "city": "Biskra",
+        "interest": 35
+      }
+    ],
+    "region_focus": "Algeria",
+    "data_source": "Estimated based on Algeria e-commerce market trends 2025",
+    "last_updated": "2025-12-09"
+  },
+  "app": {
+    "play_store": {
+      "rating": 4.5,
+      "reviews": 246000,
+      "installs": 10000000,
+      "url": "https://play.google.com/store/apps/details?id=com.jumia.android",
+      "estimation_method": "actual"
+    },
+    "app_store": {
+      "rating": 4.4,
+      "ratings_count": 250000,
+      "estimation_method": "estimated"
+    }
+  },
+  "traffic": {
+    "similarweb": {
+      "global_rank": 4850,
+      "algeria_rank": 12,
+      "monthly_visits": 28000000,
+      "algeria_monthly_visits": 9200000,
+      "estimation_method": "market_analysis"
+    }
+  },
+  "youtube": {
+    "subscribers": 4540,
+    "url": "https://www.youtube.com/@JumiaGroup",
+    "estimation_method": "actual"
+  },
+  "news": [
+    {
+      "title": "Experts caution online shoppers against Black Friday scams",
+      "source": "The Punch",
+      "publishedAt": "2025-12-08T14:39:16Z",
+      "url": "https://punchng.com/experts-caution-online-shoppers-against-black-friday-scams/",
+      "summary": "Protect yourself from Black Friday scams. Experts share tips on how to spot fake websites and phishing emails."
+    },
+    {
+      "title": "Why Jumia Technologies Rallied 16.2% in November",
+      "source": "Biztoc.com",
+      "publishedAt": "2025-12-04T15:37:30Z",
+      "url": "https://biztoc.com/x/bc00a1750e4b9ee3",
+      "summary": "Jumia delivered strong growth in Q3 with narrowing losses and positive 2030 targets at Investor Day."
+    },
+    {
+      "title": "Jumia Stock Pops: Amazon Of Africa Can Take On Temu And Shein",
+      "source": "Biztoc.com",
+      "publishedAt": "2025-11-28T17:09:00Z",
+      "url": "https://biztoc.com/x/9651b566bd61631a",
+      "summary": "Jumia mounting comeback as the Amazon of Africa according to hedge fund analysis."
+    },
+    {
+      "title": "Nigeria Buy Now Pay Later Report 2025: $2.61 Bn Market",
+      "source": "GlobeNewswire",
+      "publishedAt": "2025-11-27T12:36:00Z",
+      "url": "https://www.globenewswire.com/news-release/2025/11/27/3195641/28124/en/...",
+      "summary": "Nigeria's BNPL market expanding rapidly with Jumia partnerships driving growth."
+    },
+    {
+      "title": "Jumia Technologies resumed with a Buy at Benchmark",
+      "source": "Thefly.com",
+      "publishedAt": "2025-11-25T12:19:38Z",
+      "url": "https://thefly.com/permalinks/entry.php/id4245802/...",
+      "summary": "Analyst coverage resumes with bullish outlook on Jumia's Africa e-commerce strategy."
+    },
+    {
+      "title": "Jumia Technologies sees FY25 orders growth 25%-27%",
+      "source": "Thefly.com",
+      "publishedAt": "2025-11-13T11:07:26Z",
+      "url": "https://thefly.com/permalinks/entry.php/id4238692/...",
+      "summary": "Strong order growth forecast as Jumia expands across African markets."
+    },
+    {
+      "title": "Jumia Technologies reports Q3 revenue $45.6M vs. $36.4M",
+      "source": "Thefly.com",
+      "publishedAt": "2025-11-13T11:06:12Z",
+      "url": "https://thefly.com/permalinks/entry.php/id4238686/...",
+      "summary": "Q3 revenue beats expectations with 25% year-over-year growth."
+    }
+  ],
+  "fetched_at": "2025-12-09T21:17:00",
+  "source_status": {
+    "newsapi": {
+      "status": "ok",
+      "count": 7
+    },
+    "google_trends": {
+      "status": "estimated"
+    },
+    "play_store": {
+      "status": "ok"
+    },
+    "app_store": {
+      "status": "estimated"
+    },
+    "similarweb": {
+      "status": "estimated"
+    },
+    "youtube": {
+      "status": "ok"
+    },
+    "investor_relations": {
+      "status": "estimated"
+    },
+    "competitors": {
+      "status": "ok",
+      "count": 4,
+      "region": "Algeria"
+    }
+  }
+}
