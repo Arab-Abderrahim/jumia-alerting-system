@@ -10,13 +10,13 @@ function NewsList({ data }) {
                 </div>
 
                 <a
-                    href="https://alerts.talkwalker.com/alerts/manage"
+                    href="https://blogtrottr.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="feedly-button"
                 >
                     <span>🔔</span>
-                    <span>Follow JUMIA on Talkwalker</span>
+                    <span>Follow JUMIA on Blogtrottr</span>
                 </a>
 
                 <div className="loading">
